@@ -27,3 +27,5 @@ SQL was never meant to be abstracted. To be confined in the narrow boundaries of
 For more details please visit [jooq.org](http://www.jooq.org).
 
 Follow jOOQ on [Twitter](http://twitter.com/#!/JavaOOQ) and on [Wordpress](http://lukaseder.wordpress.com).
+
+
